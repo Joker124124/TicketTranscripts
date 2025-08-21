@@ -1,0 +1,7 @@
+Server: Lifted Services Ontop (1351721792355565689)
+Channel: #support-ticket-0 (1408211597104648382)
+Created: 2025-08-21T22:10:08.056000+00:00
+------------------------------------------------------------
+[2025-08-21T22:10:08.500000+00:00] Lifted Test Bot#6761 (1351683319531831306): <@1184253961927147521> <@&1408205807258177698>
+  -> Embed Title: jokkeerrr's Ticket  - > Ticket Author: <@1184253961927147521> > Ticket ID: 4cl4dp6laqydrtecrrj2 > Ticket Reason: Support Ticket  **__Please Fill Out This Form__** - What is your reason for opening this ticket. - Provide as
+[2025-08-21T22:10:08.987000+00:00] Lifted Test Bot#6761 (1351683319531831306): 
